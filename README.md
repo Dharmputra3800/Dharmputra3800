@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Priyanshu Dharmputra 👋
 
-<!--
-**Dharmputra3800/Dharmputra3800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.Tech student building a strong foundation in C++,
+Python, mathematics, statistics, data science, and
+machine learning.
+
+## Skills
+
+-C++
+- Python
+- Git & GitHub
+- Mathematics
+- Statistics
+- Data Science
+- Machine Learning
+
+## Currently Learning
+
+-C++
+- Python Programming
+- Data Structures
+- Statistics
+- Data Science
+- Machine Learning
+- Git & GitHub
+
+## Academic Interests
+
+- Programming
+- Data Science
+- Machine Learning
+- Mathematics
+- Statistics
+
+## Projects
+
+I use GitHub to document my coursework, programming
+practice, and academic projects.
+
+## Connect With Me
+
+- LinkedIn: Priyanshu Dharmputra Singh
+- GitHub: Dharmputra3800
